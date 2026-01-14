@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ペンタトニック",
+  "base_artist": "星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏、初音ミク",
+  "createdAt": "2026-01-14T05:41:59.965125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペンタトニック・ラブ",
+      "artist": "江藤くるみ (洲崎綾)",
+      "has_synced": false,
+      "path": "select/01_ペンタトニック・ラブ_江藤くるみ_(洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンタトニック",
+      "artist": "星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏、初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ペンタトニック_星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏、初音ミク.txt"
+    }
+  ]
+}
